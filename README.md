@@ -25,6 +25,7 @@ File: feature_extraction.R
 **Input:** cell_data.csv
 
 **Required columns:** Cell Index, Cell X, Cell Y, Height, Azimuth, Electrical Downtilt, Mechanical Downtilt, Frequency Band, RS Power, Cell Altitude, Cell Building Height, Cell Clutter Index, X, Y, Altitude, Building Height, Clutter Index, RSRP
+
 This input data is available at IEEE Dataport (https://dx.doi.org/10.21227/4ba2-tg21).
 
 **Output:** features.csv
