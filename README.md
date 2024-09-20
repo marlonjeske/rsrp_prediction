@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/860171037.svg)](https://zenodo.org/doi/10.5281/zenodo.13800566)
+
 # Enhancing Reference Signal Received Power Prediction Accuracy in Wireless Outdoor Settings: A Comprehensive Feature Importance Study
 
 Source code for RSRP prediction using machine learning. This code includes feature extraction, training and validation using Random Forest.
