@@ -10,7 +10,7 @@ To cite the contents of this repository, please cite this paper and this repo.
 
 M. Jeske and B. Sansó and D. Aloise and M. C. V. Nascimento (2024) Enhancing Reference Signal Received Power Prediction Accuracy in Wireless Outdoor Settings: A Comprehensive Feature Importance Study. Submitted to IEEE Transactions on Antennas and Propagation.
 
-Marlon Jeske. Enhancing Reference Signal Received Power Prediction Accuracy in Wireless Outdoor Settings: A Comprehensive Feature Importance Study. https://github.com/marlonjeske/rssi_prediction_urban_mesh, 2024. GitHub repository.
+Marlon Jeske. Enhancing Reference Signal Received Power Prediction Accuracy in Wireless Outdoor Settings: A Comprehensive Feature Importance Study. https://github.com/marlonjeske/rsrp_prediction, 2024. GitHub repository.
 
 
 
